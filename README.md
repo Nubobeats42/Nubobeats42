@@ -9,9 +9,8 @@
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/lucas-santos-ribeiro0-nubo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-santos-ribeiro0-nubo" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/luca.ribeiro.31392" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/luca.ribeiro.31392" height="30" width="40" /></a>
-<a href="https://instagram.com/@saantos_ribeiroo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@saantos_ribeiroo" height="30" width="40" /></a>
+<a href="[www.linkedin.com/in/lucas-sa-ribeiro](https://www.linkedin.com/in/lucas-sa-ribeiro/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/lucas-santos-ribeiro0-nubo" height="30" width="40" /></a>
+<a href="https://instagram.com/@santinhoos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@saantos_ribeiroo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
