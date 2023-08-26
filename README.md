@@ -5,7 +5,7 @@
 
 - 🌱 Estou aprendendo sobre **API PHP, Javascrypt e Delphi**
 
-- 📫 Caso queira, pode entrar em contato comigo no e-mail: **lucas.cooper25@gmail.com** ou nas redes sociais abaixo
+- 📫 Caso queira, pode entrar em contato comigo no e-mail: **sunlight.lucas2@gmail.com** ou nas redes sociais abaixo
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="left">
