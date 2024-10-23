@@ -1,8 +1,6 @@
 <h1 align="center">Oi 👋, eu sou o Lucas Ribeiro, mas pode me chamar de @Nubobeats42</h1>
 <h3 align="center">Sou apaixonado por tecnologia e programação</h3>
 
-- 🔭 Atualmente estou trabalhando na **Uniware**
-
 - 🌱 Estou aprendendo sobre **Java, Javascrypt e PHP**
 
 - 📫 Caso queira, pode entrar em contato comigo no e-mail: **lucas.cooper25@gmail.com** ou nas redes sociais abaixo
